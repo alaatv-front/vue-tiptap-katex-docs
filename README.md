@@ -2,6 +2,8 @@
 
 A rich-text and math editor for Vue.js v3 powered by [Tiptap](https://www.npmjs.com/package/tiptap) and [Mathlive](https://www.npmjs.com/package/mathlive).
 
+[vue3-tiptap-katex](https://github.com/kerasus/vue3-tiptap-katex)
+
 ## Installation
 
     npm install --save vue3-tiptap-katex
