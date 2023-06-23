@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,O as o}from"./chunks/framework.57e84c95.js";const b=JSON.parse('{"title":"Vue Tiptap Katex","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"},r=o("",40),d=[r];function i(l,p,h,s,c,u){return e(),a("div",null,d)}const f=t(n,[["render",i]]);export{b as __pageData,f as default};
