@@ -1,0 +1,46 @@
+{
+  "name": "vue3-tiptap-katex-docs",
+  "keywords": [
+    "vue",
+    "vue3",
+    "tiptap",
+    "katex",
+    "mathlive",
+    "tiptap",
+    "editor",
+    "vue3-tiptap-katex"
+  ],
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.19.1",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "eslint": "8.22.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.6.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-vue": "^9.9.0",
+    "sass": "^1.62.1",
+    "vite": "^4.3.9",
+    "vitepress": "^1.0.0-beta.3",
+    "vue-docgen-cli": "^4.67.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ]
+}
