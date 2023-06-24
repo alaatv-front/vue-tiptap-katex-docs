@@ -6,7 +6,7 @@ simple and neat, here is how your formula turns into html elements in editor:
 
 when you open the formula box, you create a TiptapInteractiveKatex node in editor,
 which has its own custom functionality, when you finish typing your formula and close the mathlive box, a method called `loadMathLive()` is ran and the mathlive element (`Mathfield()`) outputs the  LaTex of your context.
-for more info, checkout the documentation of [MixinComponentFormula](....).
+for more info, checkout the documentation of [MixinComponentFormula](/corePackage/formula/mixin.md).
 
 ## 2. renderHTML
 
@@ -40,7 +40,7 @@ and update our model value, with the help of `convertToTiptap()` method as a nor
 
 ## 5. convertToTiptap
 
-This method is placed in the core file [convertToTiptap.mjs](....) with the path below:
+This method is placed in the core file [convertToTiptap.mjs](/corePackage/mixins/convertToTiptap.md) with the path below:
 
 `vue-tiptap-katex-core/mixins/convertToTiptap.mjs`
 

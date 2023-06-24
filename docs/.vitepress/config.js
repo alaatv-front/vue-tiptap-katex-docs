@@ -6,6 +6,7 @@ export default {
     description: 'documentation of vue3-tiptap-katex package for developers',
     srcDir: 'src',
     base: '/vue-tiptap-katex-docs/',
+    ignoreDeadLinks: true,
     themeConfig: {
         nav: [
             { text: 'user guide', link: '/guide' }
