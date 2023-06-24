@@ -11,11 +11,11 @@ The code has a data property called newTableData. The newTableData property is i
 
 ## edit-table-modal
 
-A custome made that is being used when a table cell is being edited by the user.
-
+A custom component that is being used when a table cell is being edited by the user.
+    
 ## toolbar
 
-all the needed options to be on editor's toolbar are placed in this custome component. based on each option a specified chain of editor commands is ran to execute the desired functionality
+all the needed options to be on editor's toolbar are placed in this custom component. based on each option a specified chain of editor commands is run to execute the desired functionality
 
 
 ## Editor instance
