@@ -18,7 +18,7 @@ in order to fully undrestand how tiptap extensions work, you need to refer to ti
 
 
 - [tiptap custom extensions](https://tiptap.dev/guide/custom-extensions)
-- [Interactive node views](https://tiptap.dev/guide/node-views)
+- [Interactive node views](https://tiptap.dev/guide/node-views/vue)
 - [tiptap configuration](https://tiptap.dev/guide/configuration#nodes-marks-and-extensions)
 
 you can finde more explanation of how exactly TiptapInteractiveKatex works in [main package files / TiptapInteractiveKatex](/mainPackage/components/formula/TiptapInteractiveKatex.html)    where we explain each file and each method separately.
