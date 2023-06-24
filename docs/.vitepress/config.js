@@ -16,8 +16,8 @@ export default {
             { icon: 'github', link: 'https://github.com/kerasus/vue3-tiptap-katex' }
         ]
     },
-    rewrites: {
-        'packages/pkg-a/src/pkg-a-docs.md': 'pkg-a/index.md',
-        'packages/pkg-b/src/pkg-b-docs.md': 'pkg-b/index.md'
+    footer: {
+        message: 'Released under the MIT License.',
+        copyright: 'Copyright © 2023-present Jasmine GH'
     }
 }
